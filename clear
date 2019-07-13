@@ -1,0 +1,23 @@
+[33md8f8016[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Preparing sales search navigation views
+[33mcf60b00[m Exception handling for delete (referential integrity)
+[33mb52cf10[m Asynchronous operations using Tasks (async, await)
+[33mc19d484[m App locale, number and date formatting
+[33m6d8191e[m Returning custom error page
+[33m3d4cc0a[m Update seller and custom service exception
+[33m1fa7601[m Seller details and eager loading
+[33m1b2c7ff[m Delete seller
+[33m33c758d[m SellerFormViewModel and Department select component
+[33me16222a[m Foreign key not null (referential integrity)
+[33m156c920[m Simple Create form
+[33m6d75d32[m SellerService and basic FindAll
+[33m0c3dc5a[m SellersController
+[33md1513e2[m Seeding Service
+[33m9dace2c[m Other entities and second migration
+[33ma09e1cc[m Changing theme
+[33m6ad3521[m MySQL adaptation and first migration
+[33m65a64aa[m CRUD Scaffolding
+[33m97577ec[m Deleting Department view and controller
+[33mb90431e[m Fist Model-Controlle-View - Department
+[33ma58ec19[m Fist controller and Razor pages test
+[33mf9eab9c[m Add project files.
+[33mef3864c[m Add .gitignore and .gitattributes.
